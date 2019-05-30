@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Juan Ramirez jdr2904@gmail.com @notengo
 
 # THANKS
 
