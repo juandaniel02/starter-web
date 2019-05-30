@@ -11,3 +11,5 @@ TO LEARN HOW TO CODE. FUCK YEAH
 Sample website with WITH PLENTY plenty of files for demos
 
 ## How to contribute
+
+2019 Git.training
