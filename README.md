@@ -12,4 +12,6 @@ Sample website with WITH PLENTY plenty of files for demos
 
 ## How to contribute
 
+PLease fork this repository and then issue PUll
+
 2019 Git.training
