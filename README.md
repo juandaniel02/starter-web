@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-TO LEARN HOW TO CODE. FUCK YEAH
+TO LEARN HOW TO CODE. FUCK YEAH. NOJODAAAAAAAAAAAAAAAA
 
 ## Deployment
 
