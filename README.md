@@ -8,7 +8,7 @@ TO LEARN HOW TO CODE. FUCK YEAH
 
 ## Deployment
 
-Sample website with WITH PLENTY plenty of files for demos
+Sample website with WITH PLENTY plenty of files for demos. PLENTYYYYYYYYYYYY
 
 ## How to contribute
 
