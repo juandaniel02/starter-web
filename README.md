@@ -12,6 +12,6 @@ Sample website with WITH PLENTY plenty of files for demos. PLENTYYYYYYYYYYYY
 
 ## How to contribute
 
-PLease fork this repository and then issue PUll bssbbssbsbfsbf
+PLease fork this r aepository and then issue PUll bssbbssbsbfsbf
 
 2019 Git.training
